@@ -1,6 +1,6 @@
 # Hospital Readmission Risk Assessment System
 
-A professional Streamlit web application for predicting 30-day hospital readmission risk using ensemble learning (XGBoost + BERT + Logistic Regression meta-learner) with SHAP interpretability.
+A Streamlit web application for predicting 30-day hospital readmission risk using ensemble learning (XGBoost + BERT + Logistic Regression meta-learner) with SHAP interpretability.
 
 ---
 
