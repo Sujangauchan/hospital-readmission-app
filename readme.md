@@ -2,6 +2,8 @@
 
 A Streamlit web application for predicting 30-day hospital readmission risk using ensemble learning (XGBoost + BERT + Logistic Regression meta-learner) with SHAP interpretability.
 
+APP link: https://sujangauchan-hospital-readmission-app-app-0lybl0.streamlit.app
+
 ---
 
 # Features
